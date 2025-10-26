@@ -25,6 +25,7 @@ RoClients, a board containing every single Roblox clients i could find! (includi
 
 #### Windows
 | Icon | Name | Description | Current Version | License | Source |
+| --- | --- | --- | --- | --- | --- |
 | <a href="https://bloxstraplabs.com/" target="_blank"><img src="https://raw.githubusercontent.com/SSMG4/RoClients/refs/heads/master/Logos/Clients/Bloxstrap_Logo.png" width="65" height="65" alt="Bloxstrap"></a> | Bloxstrap | An alternative bootstrapper for Roblox with a bunch of extra features. | v2.10.0 | MIT | https://github.com/bloxstraplabs/bloxstrap |
 | <a href="https://www.fishstrap.app/" target="_blank"><img src="https://raw.githubusercontent.com/SSMG4/RoClients/refs/heads/master/Logos/Clients/Fishstrap_Logo.png" width="65" height="65" alt="Fishstrap"></a> | Fishstrap | A Bloxstrap fork aiming to enhance some of the features. | v3.0.1.0 | Dual MIT Licensed | https://github.com/fishstrap/fishstrap |
 | <a href="https://bitl.itch.io/novetus" target="_blank"><img src="https://raw.githubusercontent.com/SSMG4/RoClients/refs/heads/master/Logos/Clients/Novetus_Logo.png" width="65" height="65" alt="Novetus"></a>  | Novetus | Novetus is a free and open source multi-version ROBLOX client launcher built to allow the user to run LAN and Internet servers. | Snapshot v25.9409.1 | MIT | https://github.com/Novetus/Novetus_src |
@@ -39,6 +40,7 @@ RoClients, a board containing every single Roblox clients i could find! (includi
 
 #### Linux
 | Icon | Name | Description | Current Version | License | Source |
+| --- | --- | --- | --- | --- | --- |
 | <a href="https://brinkervii.gitlab.io/grapejuice/" target="_blank"><img src="https://raw.githubusercontent.com/SSMG4/RoClients/refs/heads/master/Logos/Clients/Grapejuice_Logo.png" width="65" height="65" alt="Grapejuice"></a> | Grapejuice (Abandonned) | A wine+roblox management application. | v7.20.12 | GPL-3.0 | https://gitlab.com/brinkervii/grapejuice |
 | <a href="https://github.com/newbthenewbd/NOBLOX-Launcher" target="_blank"><img src="https://raw.githubusercontent.com/SSMG4/RoClients/refs/heads/master/Logos/Clients/NOBLOX_Logo.png" width="65" height="65" alt="NOBLOX Launcher"></a> | NOBLOX Launcher (Abandonned?) | NOBLOX Unofficial Launcher of Roblox for Linux. | Not Mentioned | MIT | https://github.com/newbthenewbd/NOBLOX-Launcher |
 | <a href="https://github.com/Windows81/Roblox-Freedom-Distribution" target="_blank"><img src="https://raw.githubusercontent.com/SSMG4/RoClients/refs/heads/master/Logos/Clients/RFD_Logo.png" width="65" height="65" alt="Roblox Freedom Distribution"></a> | Roblox Freedom Distribution | Revival-style launcher that allows people to host their own instances of Rōblox for other people to play. | v0.62.3 | GPL-3.0 | https://github.com/Windows81/Roblox-Freedom-Distribution |
@@ -46,6 +48,7 @@ RoClients, a board containing every single Roblox clients i could find! (includi
 
 #### macOS
 | Icon | Name | Description | Current Version | License | Source |
+| --- | --- | --- | --- | --- | --- |
 | N/A | N/A | N/A | N/A | N/A | N/A |
 
 >!NOTE
@@ -53,6 +56,7 @@ RoClients, a board containing every single Roblox clients i could find! (includi
 
 #### ChromeOS
 | Icon | Name | Description | Current Version | License | Source |
+| --- | --- | --- | --- | --- | --- |
 | N/A | N/A | N/A | N/A | N/A | N/A |
 
 >!NOTE
@@ -64,10 +68,12 @@ RoClients, a board containing every single Roblox clients i could find! (includi
 
 #### Android
 | Icon | Name | Description | Current Version | License | Source |
+| --- | --- | --- | --- | --- | --- |
 | <a href="https://github.com/FrosSky/Chevstrap" target="_blank"><img src="https://raw.githubusercontent.com/SSMG4/RoClients/refs/heads/master/Logos/Clients/Chevstrap_Logo.png" width="65" height="65" alt="Chevstrap"></a> | Chevstrap | Chevstrap is an enhanced Roblox and Roblox VN launcher, built specifically for Android and inspired by Bloxstrap. | v1.9 | MIT | https://github.com/FrosSky/Chevstrap |
 
 #### iOS
 | Icon | Name | Description | Current Version | License | Source |
+| --- | --- | --- | --- | --- | --- |
 | N/A | N/A | N/A | N/A | N/A | N/A |
 
 >!NOTE
@@ -75,6 +81,7 @@ RoClients, a board containing every single Roblox clients i could find! (includi
 
 #### HarmonyOS
 | Icon | Name | Description | Current Version | License | Source |
+| --- | --- | --- | --- | --- | --- |
 | N/A | N/A | N/A | N/A | N/A | N/A |
 
 >!NOTE
@@ -86,6 +93,7 @@ RoClients, a board containing every single Roblox clients i could find! (includi
 
 ### Revivals
 | Icon | Name | Description | Platforms | Creation Date | Year(s) |
+| --- | --- | --- | --- | --- | --- |
 | <a href="https://austiblox.net" target="_blank"><img src="https://raw.githubusercontent.com/SSMG4/RoClients/refs/heads/master/Logos/Revivals/Austiblox_Logo.png" width="65" height="65" alt="Austiblox"></a> | Austiblox | Austiblox is a Roblox Revival offering legacy clients and nostalgic gameplay experiences. | Windows | 2021 | 2010 / 2011 / 2012 / 2013 / 2014 / 2015.. |
 | <a href="https://www.pekora.zip/" target="_blank"><img src="https://raw.githubusercontent.com/SSMG4/RoClients/refs/heads/master/Logos/Revivals/Korone_Logo.png" width="65" height="65" alt="Korone"></a> | Korone | Korone is an unofficial Roblox revival that nostalgically emulates the 2017–2021 era of classic Roblox gameplay. | Windows / Android (Official & Unofficial) / iOS | 2024 | 2017 / 2018? / 2020 / 2021 |
 | <a href="https://watrbx.wtf" target="_blank"><img src="https://raw.githubusercontent.com/SSMG4/RoClients/refs/heads/master/Logos/Revivals/WATRBX_Logo.png" width="65" height="65" alt="WATRBX"></a>
