@@ -104,9 +104,12 @@ RoClients, a board containing every single Roblox clients i could find! (includi
 >- Austiblox contains commercial ads.
 >- These 3 are the most reliable up to date revivals. Most of the other revivals out there are shitty, ratted and unreliable revivals with trash communities and lack of support.
 
-### Roblox Studio
+### Roblox Studio Stuff
 | Icon | Name | Credits | Current Version | Platform(s) | License | Source |
 | --- | --- | --- | --- | --- | --- | --- |
+| <a href="https://github.com/7ap/internal-studio-patcher" target="_blank"><img src="https://raw.githubusercontent.com/SSMG4/RoClients/refs/heads/master/Logos/Studio/ISP_Logo.png" width="65" height="65" alt="ISP"></a> | Internal Studio Patcher | 7ap | v0.1.6 | Windows / Linux?? | MIT | [Open Source](https://github.com/7ap/internal-studio-patcher) |
+| <a href="https://studio.fireblade.dev/" target="_blank"><img src="https://raw.githubusercontent.com/SSMG4/RoClients/refs/heads/master/Logos/Studio/RSM_Logo.png" width="65" height="65" alt="RSM"></a> | Roblox Studio Manager | Firebladedoge229 | v2.5.0 | Windows | GPL-3.0 | [Open Source](https://github.com/Firebladedoge229/RobloxStudioManager) |
+| <a href="https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager" target="_blank"><img src="https://raw.githubusercontent.com/SSMG4/RoClients/refs/heads/master/Logos/Studio/RSMM_Logo.png" width="65" height="65" alt="RSMM"></a> | Roblox Studio Mod Manager | MaximumADHD | v2025.05.01 | Windows | MIT | [Open Source](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) |
 | <a href="https://vinegarhq.org/" target="_blank"><img src="https://raw.githubusercontent.com/SSMG4/RoClients/refs/heads/master/Logos/Studio/Vinegar_Logo.png" width="65" height="65" alt="Vinegar"></a> | Vinegar | VinegarHQ | v1.9.1 | Linux | GPL-3.0 | [Open Source](https://github.com/vinegarhq/vinegar) |
 
 ---
