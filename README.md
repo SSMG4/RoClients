@@ -97,11 +97,12 @@ RoClients, a board containing every single Roblox clients i could find! (includi
 | Icon | Name | Credits | Description | Platform(s) | Creation Date | Year(s) |
 | --- | --- | --- | --- | --- | --- | --- |
 | <a href="https://austiblox.net" target="_blank"><img src="https://raw.githubusercontent.com/SSMG4/RoClients/refs/heads/master/Logos/Revivals/Austiblox_Logo.png" width="65" height="65" alt="Austiblox"></a> | Austiblox | Gage | Austiblox is a Roblox Revival offering legacy clients and nostalgic gameplay experiences. | Windows | 2021 | 2010 / 2011 / 2012 / 2013 / 2014 / 2015.. |
-| <a href="https://www.pekora.zip/" target="_blank"><img src="https://raw.githubusercontent.com/SSMG4/RoClients/refs/heads/master/Logos/Revivals/Korone_Logo.png" width="65" height="65" alt="Korone"></a> | Korone | Supra / Chloe | Korone is an unofficial Roblox revival that nostalgically emulates the 2017–2021 era of classic Roblox gameplay. | Windows / Android (Official & Unofficial) / iOS | 2024 | 2017 / 2018? / 2020 / 2021 |
-| <a href="https://watrbx.wtf" target="_blank"><img src="https://raw.githubusercontent.com/SSMG4/RoClients/refs/heads/master/Logos/Revivals/WATRBX_Logo.png" width="65" height="65" alt="WATRBX"></a> | WATRBX | Watrabi | WATRBX is a 2016-era Roblox revival that recreates the March 2016 client and website, featuring a corescript switcher and legacy features like Color3.  | Windows / macOS? / iOS? | 2025 | 2015 / 2016 |
+| <a href="https://www.pekora.zip/" target="_blank"><img src="https://raw.githubusercontent.com/SSMG4/RoClients/refs/heads/master/Logos/Revivals/Korone_Logo.png" width="65" height="65" alt="Korone"></a> | Korone | Supra / Chloe | Korone is a Roblox revival that nostalgically emulates the 2017–2021 era of classic Roblox gameplay. | Windows / Android (Official & Unofficial) / iOS | 2024 | 2017 / 2018? / 2020 / 2021 |
+| <a href="https://watrbx.wtf" target="_blank"><img src="https://raw.githubusercontent.com/SSMG4/RoClients/refs/heads/master/Logos/Revivals/WATRBX_Logo.png" width="65" height="65" alt="WATRBX"></a> | WATRBX | Watrabi | WATRBX is a 2016-era Roblox revival that recreates the 2016 client and website.  | Windows / macOS? / iOS? | 2025 | 2015 / 2016 |
 
 >[!NOTE]
 >- Austiblox contains commercial ads.
+>- None of the revivals above are affiliated with Roblox Corporation.
 >- These 3 are the most reliable up to date revivals. Most of the other revivals out there are shitty, ratted and unreliable revivals with trash communities and lack of support.
 
 ### Roblox Studio Stuff
