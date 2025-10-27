@@ -104,6 +104,11 @@ RoClients, a board containing every single Roblox clients i could find! (includi
 >- Austiblox contains commercial ads.
 >- These 3 are the most reliable up to date revivals. Most of the other revivals out there are shitty, ratted and unreliable revivals with trash communities and lack of support.
 
+### Roblox Studio
+| Icon | Name | Credits | Current Version | Platform(s) | License | Source |
+| --- | --- | --- | --- | --- | --- | --- |
+| <a href="https://vinegarhq.org/" target="_blank"><img src="https://raw.githubusercontent.com/SSMG4/RoClients/refs/heads/master/Logos/Studio/Vinegar_Logo.png" width="65" height="65" alt="Vinegar"></a> | Vinegar | VinegarHQ | v1.9.1 | Linux | GPL-3.0 | [Open Source](https://github.com/vinegarhq/vinegar) |
+
 ---
 
 &copy; 2025 SSMG4. Just Do Whatever Bruh.
